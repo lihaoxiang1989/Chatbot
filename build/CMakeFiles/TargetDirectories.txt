@@ -1,0 +1,3 @@
+/home/coin/github_ws/Chatbot/build/CMakeFiles/rebuild_cache.dir
+/home/coin/github_ws/Chatbot/build/CMakeFiles/membot.dir
+/home/coin/github_ws/Chatbot/build/CMakeFiles/edit_cache.dir
